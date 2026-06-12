@@ -1,4 +1,4 @@
 sistema,precision_at_10
 Baseline,0.10799999999999998
-Content-based TF-IDF,0.274
-SVD matrix factorization,0.68
+Content-based TF-IDF,0.272
+SVD matrix factorization,0.67
