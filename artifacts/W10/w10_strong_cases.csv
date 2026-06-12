@@ -1,0 +1,6 @@
+model,query_idx,query_repo,relevant_candidates,Precision@10,Recall@10,MAP@10,NDCG@10
+Hybrid PCA + K-means ranking,15,keras-team/keras,900,1.0,0.011111111111111112,1.0,1.0
+Hybrid PCA + K-means ranking,19,ageitgey/face_recognition,954,1.0,0.010482180293501049,1.0,1.0
+Hybrid PCA + K-means ranking,53,JaidedAI/EasyOCR,832,1.0,0.01201923076923077,1.0,1.0
+Hybrid PCA + K-means ranking,54,donnemartin/data-science-ipython-notebooks,679,1.0,0.014727540500736377,1.0,1.0
+Hybrid PCA + K-means ranking,64,terryum/awesome-deep-learning-papers,458,1.0,0.021834061135371178,1.0,1.0

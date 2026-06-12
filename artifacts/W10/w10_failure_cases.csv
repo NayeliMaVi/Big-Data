@@ -1,0 +1,6 @@
+model,query_idx,query_repo,relevant_candidates,Precision@10,Recall@10,MAP@10,NDCG@10
+Hybrid PCA + K-means ranking,476,EutropicAI/Final2x,127,0.0,0.0,0.0,0.0
+Hybrid PCA + K-means ranking,1831,bytedance/SALMONN,38,0.0,0.0,0.0,0.0
+Hybrid PCA + K-means ranking,2484,ruvnet/RuVector,7,0.0,0.0,0.0,0.0
+Hybrid PCA + K-means ranking,2612,yazdotai/graph-networks,17,0.0,0.0,0.0,0.0
+Hybrid PCA + K-means ranking,2833,fangvv/LassoADMM,533,0.0,0.0,0.0,0.0
