@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-07-10T08:25:18.742907+00:00",
+  "files_validated": [
+    "C:\\Users\\HP\\Desktop\\Big-data\\bd-project\\data\\processed\\repos_clean.csv",
+    "C:\\Users\\HP\\Desktop\\Big-data\\bd-project\\artifacts\\W10\\repos_with_pca_kmeans_w10.csv",
+    "C:\\Users\\HP\\Desktop\\Big-data\\bd-project\\notebooks\\artifacts\\W12\\w12_edge_list.csv",
+    "C:\\Users\\HP\\Desktop\\Big-data\\bd-project\\notebooks\\artifacts\\W12\\w12_centrality_ranking.csv",
+    "C:\\Users\\HP\\Desktop\\Big-data\\bd-project\\notebooks\\artifacts\\W12\\w12_pagerank_vs_stars.csv"
+  ],
+  "catalog_rows": 3034,
+  "graph_edges": 24787,
+  "recommender_status": {
+    "status": "ok",
+    "rows": 5,
+    "query": "huggingface/transformers",
+    "top_names": [
+      "ollama/ollama",
+      "vllm-project/vllm",
+      "hiyouga/LlamaFactory",
+      "Significant-Gravitas/AutoGPT",
+      "tensorflow/tensorflow"
+    ]
+  },
+  "preferences_status": {
+    "status": "ok",
+    "rows": 5,
+    "query": {
+      "language": "Python",
+      "topics": [
+        "computer-vision"
+      ],
+      "min_stars": 1000,
+      "max_days_without_commit": 180
+    }
+  },
+  "graph_status": {
+    "status": "ok",
+    "selected_repository": "tensorflow/tensorflow",
+    "edges": 24787,
+    "centrality_rows": 200,
+    "pagerank_vs_stars_rows": 15,
+    "subgraph_nodes": 9,
+    "subgraph_edges": 36
+  },
+  "errors": []
+}

@@ -1,0 +1,12 @@
+PyGithub
+pandas
+python-dotenv
+matplotlib
+streamlit
+numpy
+plotly
+scikit-learn
+networkx
+joblib
+scipy
+pyvis
