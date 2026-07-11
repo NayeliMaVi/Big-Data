@@ -5,6 +5,7 @@
 ```powershell
 python -m venv .venv
 .venv\Scripts\activate
+python -m pip install --upgrade pip setuptools wheel
 python -m pip install -r requirements.txt
 python src/run_pipeline.py
 python -m streamlit run dashboard/app.py
